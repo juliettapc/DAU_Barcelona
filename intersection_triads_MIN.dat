@@ -1,0 +1,3052 @@
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    26.0  (of a max of: 177.0 ) 14.6892655367 % 
+ Avg Intersection between random sets of same size:    61.93  (of a max of: 177.0 ) 34.988700565 %  zscore of intersect. size: -6.58064126606 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    22.0  (of a max of: 177.0 ) 12.4293785311 % 
+ Avg Intersection between random sets of same size:    59.783  (of a max of: 177.0 ) 33.7757062147 %  zscore of intersect. size: -6.86578908167 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    24.0  (of a max of: 177.0 ) 13.5593220339 % 
+ Avg Intersection between random sets of same size:    46.342  (of a max of: 177.0 ) 26.181920904 %  zscore of intersect. size: -4.25557766932 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    20.0  (of a max of: 80.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    33.542  (of a max of: 80.0 ) 41.9275 %  zscore of intersect. size: -3.22554436101 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    14.0  (of a max of: 80.0 ) 17.5 % 
+ Avg Intersection between random sets of same size:    31.203  (of a max of: 80.0 ) 39.00375 %  zscore of intersect. size: -4.14779568988 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    1.0  (of a max of: 56.0 ) 1.78571428571 % 
+ Avg Intersection between random sets of same size:    14.072  (of a max of: 56.0 ) 25.1285714286 %  zscore of intersect. size: -4.03779709155 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    4.0  (of a max of: 78.0 ) 5.12820512821 % 
+ Avg Intersection between random sets of same size:    19.632  (of a max of: 78.0 ) 25.1692307692 %  zscore of intersect. size: -4.27919578067 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    7.0  (of a max of: 76.0 ) 9.21052631579 % 
+ Avg Intersection between random sets of same size:    19.269  (of a max of: 76.0 ) 25.3539473684 %  zscore of intersect. size: -3.42039772112 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    9.0  (of a max of: 80.0 ) 11.25 % 
+ Avg Intersection between random sets of same size:    20.215  (of a max of: 80.0 ) 25.26875 %  zscore of intersect. size: -3.11374350789 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    4.0  (of a max of: 56.0 ) 7.14285714286 % 
+ Avg Intersection between random sets of same size:    15.529  (of a max of: 56.0 ) 27.7303571429 %  zscore of intersect. size: -3.52630498092 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    8.0  (of a max of: 78.0 ) 10.2564102564 % 
+ Avg Intersection between random sets of same size:    21.608  (of a max of: 78.0 ) 27.7025641026 %  zscore of intersect. size: -3.54102113015 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    10.0  (of a max of: 76.0 ) 13.1578947368 % 
+ Avg Intersection between random sets of same size:    21.017  (of a max of: 76.0 ) 27.6539473684 %  zscore of intersect. size: -3.02150904656 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    16.0  (of a max of: 118.0 ) 13.5593220339 % 
+ Avg Intersection between random sets of same size:    32.864  (of a max of: 118.0 ) 27.8508474576 %  zscore of intersect. size: -3.93491650942 
+
+
+good_guys_lowerHarmony_threshold_coop0.25   size: 418
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    18.0  (of a max of: 56.0 ) 32.1428571429 % 
+ Avg Intersection between random sets of same size:    33.41  (of a max of: 56.0 ) 59.6607142857 %  zscore of intersect. size: -4.35201354016 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    20.0  (of a max of: 80.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    34.355  (of a max of: 80.0 ) 42.94375 %  zscore of intersect. size: -3.43022993778 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    19.0  (of a max of: 118.0 ) 16.1016949153 % 
+ Avg Intersection between random sets of same size:    47.405  (of a max of: 118.0 ) 40.1737288136 %  zscore of intersect. size: -6.03039481378 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    13.0  (of a max of: 80.0 ) 16.25 % 
+ Avg Intersection between random sets of same size:    32.061  (of a max of: 80.0 ) 40.07625 %  zscore of intersect. size: -4.67225174155 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    1.0  (of a max of: 56.0 ) 1.78571428571 % 
+ Avg Intersection between random sets of same size:    14.242  (of a max of: 56.0 ) 25.4321428571 %  zscore of intersect. size: -4.17800723783 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    5.0  (of a max of: 78.0 ) 6.41025641026 % 
+ Avg Intersection between random sets of same size:    20.244  (of a max of: 78.0 ) 25.9538461538 %  zscore of intersect. size: -4.23960577319 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    9.0  (of a max of: 76.0 ) 11.8421052632 % 
+ Avg Intersection between random sets of same size:    19.62  (of a max of: 76.0 ) 25.8157894737 %  zscore of intersect. size: -3.04479284422 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    11.0  (of a max of: 80.0 ) 13.75 % 
+ Avg Intersection between random sets of same size:    20.75  (of a max of: 80.0 ) 25.9375 %  zscore of intersect. size: -2.62789870153 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    5.0  (of a max of: 56.0 ) 8.92857142857 % 
+ Avg Intersection between random sets of same size:    15.721  (of a max of: 56.0 ) 28.0732142857 %  zscore of intersect. size: -3.36196182022 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    9.0  (of a max of: 78.0 ) 11.5384615385 % 
+ Avg Intersection between random sets of same size:    22.149  (of a max of: 78.0 ) 28.3961538462 %  zscore of intersect. size: -3.43317108818 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    10.0  (of a max of: 76.0 ) 13.1578947368 % 
+ Avg Intersection between random sets of same size:    21.548  (of a max of: 76.0 ) 28.3526315789 %  zscore of intersect. size: -3.15165282157 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    16.0  (of a max of: 118.0 ) 13.5593220339 % 
+ Avg Intersection between random sets of same size:    33.763  (of a max of: 118.0 ) 28.6127118644 %  zscore of intersect. size: -4.16293025925 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    19.0  (of a max of: 56.0 ) 33.9285714286 % 
+ Avg Intersection between random sets of same size:    6.701  (of a max of: 56.0 ) 11.9660714286 %  zscore of intersect. size: 5.19282746367 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    14.0  (of a max of: 56.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    34.511  (of a max of: 56.0 ) 61.6267857143 %  zscore of intersect. size: -5.93839135369 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    20.0  (of a max of: 56.0 ) 35.7142857143 % 
+ Avg Intersection between random sets of same size:    37.988  (of a max of: 56.0 ) 67.8357142857 %  zscore of intersect. size: -5.34028266635 
+
+
+good_guys_higherHarmony_threshold_coop0.25   size: 430
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    18.0  (of a max of: 76.0 ) 23.6842105263 % 
+ Avg Intersection between random sets of same size:    8.821  (of a max of: 76.0 ) 11.6065789474 %  zscore of intersect. size: 3.49464920776 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+ Intersection between them:    18.0  (of a max of: 32.0 ) 56.25 % 
+ Avg Intersection between random sets of same size:    9.685  (of a max of: 32.0 ) 30.265625 %  zscore of intersect. size: 3.15320303858 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+ Intersection between them:    17.0  (of a max of: 101.0 ) 16.8316831683 % 
+ Avg Intersection between random sets of same size:    29.371  (of a max of: 101.0 ) 29.0801980198 %  zscore of intersect. size: -2.93771258542 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+ Intersection between them:    17.0  (of a max of: 32.0 ) 53.125 % 
+ Avg Intersection between random sets of same size:    9.306  (of a max of: 32.0 ) 29.08125 %  zscore of intersect. size: 2.9560918069 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    25.0  (of a max of: 177.0 ) 14.1242937853 % 
+ Avg Intersection between random sets of same size:    51.061  (of a max of: 177.0 ) 28.8480225989 %  zscore of intersect. size: -4.90242025138 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    8.0  (of a max of: 101.0 ) 7.92079207921 % 
+ Avg Intersection between random sets of same size:    15.025  (of a max of: 101.0 ) 14.8762376238 %  zscore of intersect. size: -2.02369960787 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    13.0  (of a max of: 101.0 ) 12.8712871287 % 
+ Avg Intersection between random sets of same size:    16.369  (of a max of: 101.0 ) 16.2069306931 %  zscore of intersect. size: -0.93285671974 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    4.0  (of a max of: 101.0 ) 3.9603960396 % 
+ Avg Intersection between random sets of same size:    10.033  (of a max of: 101.0 ) 9.93366336634 %  zscore of intersect. size: -2.12031537573 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    2.0  (of a max of: 80.0 ) 2.5 % 
+ Avg Intersection between random sets of same size:    6.804  (of a max of: 80.0 ) 8.505 %  zscore of intersect. size: -1.92722274174 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    5.0  (of a max of: 32.0 ) 15.625 % 
+ Avg Intersection between random sets of same size:    4.71  (of a max of: 32.0 ) 14.71875 %  zscore of intersect. size: 0.144929364148 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    6.0  (of a max of: 32.0 ) 18.75 % 
+ Avg Intersection between random sets of same size:    5.162  (of a max of: 32.0 ) 16.13125 %  zscore of intersect. size: 0.415495736227 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    3.04  (of a max of: 32.0 ) 9.5 %  zscore of intersect. size: -0.644435558743 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    2.202  (of a max of: 32.0 ) 6.88125 %  zscore of intersect. size: -0.147198575754 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    11.0  (of a max of: 177.0 ) 6.21468926554 % 
+ Avg Intersection between random sets of same size:    28.727  (of a max of: 177.0 ) 16.2299435028 %  zscore of intersect. size: -3.82501870983 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    11.0  (of a max of: 177.0 ) 6.21468926554 % 
+ Avg Intersection between random sets of same size:    32.583  (of a max of: 177.0 ) 18.4084745763 %  zscore of intersect. size: -4.73635975499 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+ Intersection between them:    18.0  (of a max of: 177.0 ) 10.1694915254 % 
+ Avg Intersection between random sets of same size:    53.178  (of a max of: 177.0 ) 30.0440677966 %  zscore of intersect. size: -6.80000602295 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    5.0  (of a max of: 80.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    12.041  (of a max of: 80.0 ) 15.05125 %  zscore of intersect. size: -2.33852920901 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    23.0  (of a max of: 177.0 ) 12.9943502825 % 
+ Avg Intersection between random sets of same size:    44.462  (of a max of: 177.0 ) 25.1197740113 %  zscore of intersect. size: -4.39295867271 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    14.0  (of a max of: 103.0 ) 13.5922330097 % 
+ Avg Intersection between random sets of same size:    15.345  (of a max of: 103.0 ) 14.8980582524 %  zscore of intersect. size: -0.374595500948 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    12.0  (of a max of: 194.0 ) 6.18556701031 % 
+ Avg Intersection between random sets of same size:    35.851  (of a max of: 194.0 ) 18.4798969072 %  zscore of intersect. size: -4.62548452083 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    8.0  (of a max of: 118.0 ) 6.77966101695 % 
+ Avg Intersection between random sets of same size:    19.319  (of a max of: 118.0 ) 16.3720338983 %  zscore of intersect. size: -2.986633048 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    11.0  (of a max of: 103.0 ) 10.6796116505 % 
+ Avg Intersection between random sets of same size:    16.767  (of a max of: 103.0 ) 16.2786407767 %  zscore of intersect. size: -1.62282032732 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    15.0  (of a max of: 118.0 ) 12.7118644068 % 
+ Avg Intersection between random sets of same size:    29.528  (of a max of: 118.0 ) 25.0237288136 %  zscore of intersect. size: -3.295083758 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    15.0  (of a max of: 103.0 ) 14.5631067961 % 
+ Avg Intersection between random sets of same size:    10.171  (of a max of: 103.0 ) 9.87475728155 %  zscore of intersect. size: 1.74073024799 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    13.0  (of a max of: 80.0 ) 16.25 % 
+ Avg Intersection between random sets of same size:    19.95  (of a max of: 80.0 ) 24.9375 %  zscore of intersect. size: -1.90934786466 
+
+
+good_guys_PD_threshold_coop0.25   size: 245
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    11.0  (of a max of: 80.0 ) 13.75 % 
+ Avg Intersection between random sets of same size:    6.92  (of a max of: 80.0 ) 8.65 %  zscore of intersect. size: 1.74678278319 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+ Intersection between them:    12.0  (of a max of: 32.0 ) 37.5 % 
+ Avg Intersection between random sets of same size:    9.302  (of a max of: 32.0 ) 29.06875 %  zscore of intersect. size: 1.09231700253 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+ Intersection between them:    19.0  (of a max of: 101.0 ) 18.8118811881 % 
+ Avg Intersection between random sets of same size:    28.56  (of a max of: 101.0 ) 28.2772277228 %  zscore of intersect. size: -2.29842226487 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+ Intersection between them:    12.0  (of a max of: 32.0 ) 37.5 % 
+ Avg Intersection between random sets of same size:    8.973  (of a max of: 32.0 ) 28.040625 %  zscore of intersect. size: 1.26895419513 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    10.0  (of a max of: 101.0 ) 9.90099009901 % 
+ Avg Intersection between random sets of same size:    14.501  (of a max of: 101.0 ) 14.3574257426 %  zscore of intersect. size: -1.32935490757 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    13.0  (of a max of: 101.0 ) 12.8712871287 % 
+ Avg Intersection between random sets of same size:    15.82  (of a max of: 101.0 ) 15.6633663366 %  zscore of intersect. size: -0.818799315716 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    4.0  (of a max of: 101.0 ) 3.9603960396 % 
+ Avg Intersection between random sets of same size:    9.739  (of a max of: 101.0 ) 9.64257425743 %  zscore of intersect. size: -2.06861131146 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 80.0 ) 1.25 % 
+ Avg Intersection between random sets of same size:    6.449  (of a max of: 80.0 ) 8.06125 %  zscore of intersect. size: -2.35770409345 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    3.0  (of a max of: 32.0 ) 9.375 % 
+ Avg Intersection between random sets of same size:    4.584  (of a max of: 32.0 ) 14.325 %  zscore of intersect. size: -0.830362047542 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    3.0  (of a max of: 32.0 ) 9.375 % 
+ Avg Intersection between random sets of same size:    5.017  (of a max of: 32.0 ) 15.678125 %  zscore of intersect. size: -0.982709297234 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    3.146  (of a max of: 32.0 ) 9.83125 %  zscore of intersect. size: -0.696571721839 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 32.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    2.037  (of a max of: 32.0 ) 6.365625 %  zscore of intersect. size: -1.4193722792 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    13.0  (of a max of: 32.0 ) 40.625 % 
+ Avg Intersection between random sets of same size:    10.874  (of a max of: 32.0 ) 33.98125 %  zscore of intersect. size: 0.823182835761 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    15.0  (of a max of: 32.0 ) 46.875 % 
+ Avg Intersection between random sets of same size:    11.949  (of a max of: 32.0 ) 37.340625 %  zscore of intersect. size: 1.0915659998 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    7.0  (of a max of: 177.0 ) 3.95480225989 % 
+ Avg Intersection between random sets of same size:    27.754  (of a max of: 177.0 ) 15.6802259887 %  zscore of intersect. size: -4.73107639478 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    10.0  (of a max of: 177.0 ) 5.64971751412 % 
+ Avg Intersection between random sets of same size:    32.088  (of a max of: 177.0 ) 18.1288135593 %  zscore of intersect. size: -4.90526540919 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+ Intersection between them:    21.0  (of a max of: 177.0 ) 11.8644067797 % 
+ Avg Intersection between random sets of same size:    51.686  (of a max of: 177.0 ) 29.2011299435 %  zscore of intersect. size: -5.88253887071 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    5.0  (of a max of: 80.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    11.639  (of a max of: 80.0 ) 14.54875 %  zscore of intersect. size: -2.25489439953 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    22.0  (of a max of: 177.0 ) 12.4293785311 % 
+ Avg Intersection between random sets of same size:    42.937  (of a max of: 177.0 ) 24.2581920904 %  zscore of intersect. size: -4.02270067111 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    11.0  (of a max of: 103.0 ) 10.6796116505 % 
+ Avg Intersection between random sets of same size:    14.839  (of a max of: 103.0 ) 14.4067961165 %  zscore of intersect. size: -1.12604959131 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    14.0  (of a max of: 194.0 ) 7.21649484536 % 
+ Avg Intersection between random sets of same size:    34.686  (of a max of: 194.0 ) 17.8793814433 %  zscore of intersect. size: -4.28442263283 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    13.0  (of a max of: 118.0 ) 11.0169491525 % 
+ Avg Intersection between random sets of same size:    18.644  (of a max of: 118.0 ) 15.8 %  zscore of intersect. size: -1.5354617959 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    9.0  (of a max of: 103.0 ) 8.73786407767 % 
+ Avg Intersection between random sets of same size:    16.19  (of a max of: 103.0 ) 15.7184466019 %  zscore of intersect. size: -2.13437703953 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    16.0  (of a max of: 118.0 ) 13.5593220339 % 
+ Avg Intersection between random sets of same size:    28.658  (of a max of: 118.0 ) 24.286440678 %  zscore of intersect. size: -3.06559781204 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    15.0  (of a max of: 103.0 ) 14.5631067961 % 
+ Avg Intersection between random sets of same size:    9.886  (of a max of: 103.0 ) 9.59805825243 %  zscore of intersect. size: 1.78316965428 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    11.0  (of a max of: 80.0 ) 13.75 % 
+ Avg Intersection between random sets of same size:    19.369  (of a max of: 80.0 ) 24.21125 %  zscore of intersect. size: -2.31131067803 
+
+
+good_guys_higherPD_threshold_coop0.25   size: 238
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    9.0  (of a max of: 80.0 ) 11.25 % 
+ Avg Intersection between random sets of same size:    6.655  (of a max of: 80.0 ) 8.31875 %  zscore of intersect. size: 0.967722298086 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+ Intersection between them:    13.0  (of a max of: 101.0 ) 12.8712871287 % 
+ Avg Intersection between random sets of same size:    22.679  (of a max of: 101.0 ) 22.4544554455 %  zscore of intersect. size: -2.39738196476 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+ Intersection between them:    12.0  (of a max of: 32.0 ) 37.5 % 
+ Avg Intersection between random sets of same size:    7.263  (of a max of: 32.0 ) 22.696875 %  zscore of intersect. size: 2.00034970358 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    24.0  (of a max of: 182.0 ) 13.1868131868 % 
+ Avg Intersection between random sets of same size:    43.353  (of a max of: 182.0 ) 23.8203296703 %  zscore of intersect. size: -3.71374662461 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+ Intersection between them:    10.0  (of a max of: 101.0 ) 9.90099009901 % 
+ Avg Intersection between random sets of same size:    21.594  (of a max of: 101.0 ) 21.3801980198 %  zscore of intersect. size: -2.96666691625 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+ Intersection between them:    11.0  (of a max of: 32.0 ) 34.375 % 
+ Avg Intersection between random sets of same size:    6.891  (of a max of: 32.0 ) 21.534375 %  zscore of intersect. size: 1.78162495838 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    17.0  (of a max of: 177.0 ) 9.60451977401 % 
+ Avg Intersection between random sets of same size:    38.001  (of a max of: 177.0 ) 21.4694915254 %  zscore of intersect. size: -4.2403339609 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    10.0  (of a max of: 101.0 ) 9.90099009901 % 
+ Avg Intersection between random sets of same size:    11.053  (of a max of: 101.0 ) 10.9435643564 %  zscore of intersect. size: -0.344070046572 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    13.0  (of a max of: 101.0 ) 12.8712871287 % 
+ Avg Intersection between random sets of same size:    12.066  (of a max of: 101.0 ) 11.9465346535 %  zscore of intersect. size: 0.309047216322 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    0.0  (of a max of: 101.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    7.312  (of a max of: 101.0 ) 7.2396039604 %  zscore of intersect. size: -2.96329892757 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    2.0  (of a max of: 80.0 ) 2.5 % 
+ Avg Intersection between random sets of same size:    5.026  (of a max of: 80.0 ) 6.2825 %  zscore of intersect. size: -1.40975793133 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    3.0  (of a max of: 32.0 ) 9.375 % 
+ Avg Intersection between random sets of same size:    3.448  (of a max of: 32.0 ) 10.775 %  zscore of intersect. size: -0.266247400537 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    3.88  (of a max of: 32.0 ) 12.125 %  zscore of intersect. size: 0.0681818181818 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    2.393  (of a max of: 32.0 ) 7.478125 %  zscore of intersect. size: -0.967605889994 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    1.558  (of a max of: 32.0 ) 4.86875 %  zscore of intersect. size: 0.36153849855 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    14.0  (of a max of: 32.0 ) 43.75 % 
+ Avg Intersection between random sets of same size:    8.242  (of a max of: 32.0 ) 25.75625 %  zscore of intersect. size: 2.35433863995 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    13.0  (of a max of: 32.0 ) 40.625 % 
+ Avg Intersection between random sets of same size:    9.092  (of a max of: 32.0 ) 28.4125 %  zscore of intersect. size: 1.62924777899 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    17.0  (of a max of: 177.0 ) 9.60451977401 % 
+ Avg Intersection between random sets of same size:    21.487  (of a max of: 177.0 ) 12.1395480226 %  zscore of intersect. size: -1.15264308653 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    11.0  (of a max of: 177.0 ) 6.21468926554 % 
+ Avg Intersection between random sets of same size:    24.381  (of a max of: 177.0 ) 13.7745762712 %  zscore of intersect. size: -3.21452175027 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+ Intersection between them:    17.0  (of a max of: 177.0 ) 9.60451977401 % 
+ Avg Intersection between random sets of same size:    39.82  (of a max of: 177.0 ) 22.4971751412 %  zscore of intersect. size: -4.44221154369 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    5.0  (of a max of: 80.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    8.929  (of a max of: 80.0 ) 11.16125 %  zscore of intersect. size: -1.53145571363 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    23.0  (of a max of: 177.0 ) 12.9943502825 % 
+ Avg Intersection between random sets of same size:    32.853  (of a max of: 177.0 ) 18.5610169492 %  zscore of intersect. size: -2.07833166697 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    13.0  (of a max of: 103.0 ) 12.6213592233 % 
+ Avg Intersection between random sets of same size:    11.433  (of a max of: 103.0 ) 11.1 %  zscore of intersect. size: 0.506552103892 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    15.0  (of a max of: 182.0 ) 8.24175824176 % 
+ Avg Intersection between random sets of same size:    26.727  (of a max of: 182.0 ) 14.6851648352 %  zscore of intersect. size: -2.70733444123 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+ Intersection between them:    27.0  (of a max of: 182.0 ) 14.8351648352 % 
+ Avg Intersection between random sets of same size:    43.031  (of a max of: 182.0 ) 23.6434065934 %  zscore of intersect. size: -3.27340282788 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    2.0  (of a max of: 118.0 ) 1.69491525424 % 
+ Avg Intersection between random sets of same size:    14.06  (of a max of: 118.0 ) 11.9152542373 %  zscore of intersect. size: -3.49478610866 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    26.0  (of a max of: 182.0 ) 14.2857142857 % 
+ Avg Intersection between random sets of same size:    35.898  (of a max of: 182.0 ) 19.7241758242 %  zscore of intersect. size: -2.02882416851 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    10.0  (of a max of: 103.0 ) 9.70873786408 % 
+ Avg Intersection between random sets of same size:    12.65  (of a max of: 103.0 ) 12.2815533981 %  zscore of intersect. size: -0.838108350037 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    7.0  (of a max of: 118.0 ) 5.93220338983 % 
+ Avg Intersection between random sets of same size:    21.761  (of a max of: 118.0 ) 18.4415254237 %  zscore of intersect. size: -3.83955011883 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    12.0  (of a max of: 103.0 ) 11.6504854369 % 
+ Avg Intersection between random sets of same size:    7.534  (of a max of: 103.0 ) 7.3145631068 %  zscore of intersect. size: 1.87013506313 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    11.0  (of a max of: 80.0 ) 13.75 % 
+ Avg Intersection between random sets of same size:    14.844  (of a max of: 80.0 ) 18.555 %  zscore of intersect. size: -1.19016338149 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    7.0  (of a max of: 80.0 ) 8.75 % 
+ Avg Intersection between random sets of same size:    5.196  (of a max of: 80.0 ) 6.495 %  zscore of intersect. size: 0.812350244952 
+
+
+good_guys_lowerPD_threshold_coop0.25   size: 182
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    17.0  (of a max of: 80.0 ) 21.25 % 
+ Avg Intersection between random sets of same size:    21.008  (of a max of: 80.0 ) 26.26 %  zscore of intersect. size: -1.06730450656 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+ Intersection between them:    16.0  (of a max of: 32.0 ) 50.0 % 
+ Avg Intersection between random sets of same size:    13.666  (of a max of: 32.0 ) 42.70625 %  zscore of intersect. size: 0.852231073812 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_higherPD_threshold_coop0.25   size: 273
+ Intersection between them:    19.0  (of a max of: 101.0 ) 18.8118811881 % 
+ Avg Intersection between random sets of same size:    33.822  (of a max of: 101.0 ) 33.4871287129 %  zscore of intersect. size: -3.34212908822 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    3.0  (of a max of: 56.0 ) 5.35714285714 % 
+ Avg Intersection between random sets of same size:    7.013  (of a max of: 56.0 ) 12.5232142857 %  zscore of intersect. size: -1.60637874341 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    7.0  (of a max of: 78.0 ) 8.97435897436 % 
+ Avg Intersection between random sets of same size:    9.724  (of a max of: 78.0 ) 12.4666666667 %  zscore of intersect. size: -1.00973248565 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    2.0  (of a max of: 76.0 ) 2.63157894737 % 
+ Avg Intersection between random sets of same size:    9.452  (of a max of: 76.0 ) 12.4368421053 %  zscore of intersect. size: -2.87345387062 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 80.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    9.912  (of a max of: 80.0 ) 12.39 %  zscore of intersect. size: -3.49650707909 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.25   size: 292
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    11.495  (of a max of: 32.0 ) 35.921875 %  zscore of intersect. size: -2.83568589917 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.25   size: 273
+ Intersection between them:    8.0  (of a max of: 32.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    10.593  (of a max of: 32.0 ) 33.103125 %  zscore of intersect. size: -0.985472119081 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    10.964  (of a max of: 32.0 ) 34.2625 %  zscore of intersect. size: -2.74234784633 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    6.0  (of a max of: 32.0 ) 18.75 % 
+ Avg Intersection between random sets of same size:    7.645  (of a max of: 32.0 ) 23.890625 %  zscore of intersect. size: -0.676492336083 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    2.222  (of a max of: 32.0 ) 6.94375 %  zscore of intersect. size: 1.30484527324 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    3.041  (of a max of: 32.0 ) 9.503125 %  zscore of intersect. size: 0.582624221783 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    8.0  (of a max of: 32.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    3.005  (of a max of: 32.0 ) 9.390625 %  zscore of intersect. size: 2.96975715798 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    3.207  (of a max of: 32.0 ) 10.021875 %  zscore of intersect. size: -1.26410775163 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    18.0  (of a max of: 32.0 ) 56.25 % 
+ Avg Intersection between random sets of same size:    18.912  (of a max of: 32.0 ) 59.1 %  zscore of intersect. size: -0.328230540222 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    16.0  (of a max of: 32.0 ) 50.0 % 
+ Avg Intersection between random sets of same size:    17.103  (of a max of: 32.0 ) 53.446875 %  zscore of intersect. size: -0.382709574344 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    8.0  (of a max of: 32.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    15.048  (of a max of: 32.0 ) 47.025 %  zscore of intersect. size: -2.53733810368 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    14.0  (of a max of: 80.0 ) 17.5 % 
+ Avg Intersection between random sets of same size:    28.735  (of a max of: 80.0 ) 35.91875 %  zscore of intersect. size: -3.60498804067 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    9.0  (of a max of: 80.0 ) 11.25 % 
+ Avg Intersection between random sets of same size:    26.857  (of a max of: 80.0 ) 33.57125 %  zscore of intersect. size: -4.66341140793 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    5.0  (of a max of: 56.0 ) 8.92857142857 % 
+ Avg Intersection between random sets of same size:    13.421  (of a max of: 56.0 ) 23.9660714286 %  zscore of intersect. size: -2.93470594461 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    10.0  (of a max of: 78.0 ) 12.8205128205 % 
+ Avg Intersection between random sets of same size:    18.622  (of a max of: 78.0 ) 23.8743589744 %  zscore of intersect. size: -2.43234271908 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    10.0  (of a max of: 76.0 ) 13.1578947368 % 
+ Avg Intersection between random sets of same size:    18.134  (of a max of: 76.0 ) 23.8605263158 %  zscore of intersect. size: -2.30063857415 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    16.0  (of a max of: 103.0 ) 15.5339805825 % 
+ Avg Intersection between random sets of same size:    24.645  (of a max of: 103.0 ) 23.927184466 %  zscore of intersect. size: -2.25379675415 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    14.0  (of a max of: 56.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    20.604  (of a max of: 56.0 ) 36.7928571429 %  zscore of intersect. size: -1.90663431375 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    13.0  (of a max of: 56.0 ) 23.2142857143 % 
+ Avg Intersection between random sets of same size:    7.192  (of a max of: 56.0 ) 12.8428571429 %  zscore of intersect. size: 2.48260992761 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    15.0  (of a max of: 78.0 ) 19.2307692308 % 
+ Avg Intersection between random sets of same size:    9.857  (of a max of: 78.0 ) 12.6371794872 %  zscore of intersect. size: 1.89027861117 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    18.0  (of a max of: 76.0 ) 23.6842105263 % 
+ Avg Intersection between random sets of same size:    27.777  (of a max of: 76.0 ) 36.5486842105 %  zscore of intersect. size: -2.4013147945 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    20.0  (of a max of: 76.0 ) 26.3157894737 % 
+ Avg Intersection between random sets of same size:    9.915  (of a max of: 76.0 ) 13.0460526316 %  zscore of intersect. size: 3.65011228876 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    12.0  (of a max of: 80.0 ) 15.0 % 
+ Avg Intersection between random sets of same size:    29.4  (of a max of: 80.0 ) 36.75 %  zscore of intersect. size: -4.23735359167 
+
+
+good_guys_SH_threshold_coop0.25   size: 361
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    12.0  (of a max of: 80.0 ) 15.0 % 
+ Avg Intersection between random sets of same size:    10.153  (of a max of: 80.0 ) 12.69125 %  zscore of intersect. size: 0.642436103915 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_PD_threshold_coop0.25   size: 292
+ Intersection between them:    19.0  (of a max of: 101.0 ) 18.8118811881 % 
+ Avg Intersection between random sets of same size:    34.651  (of a max of: 101.0 ) 34.3079207921 %  zscore of intersect. size: -3.4898078577 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_higherPD_threshold_coop0.25   size: 273
+ Intersection between them:    14.0  (of a max of: 101.0 ) 13.8613861386 % 
+ Avg Intersection between random sets of same size:    32.635  (of a max of: 101.0 ) 32.3118811881 %  zscore of intersect. size: -4.2677813903 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    15.0  (of a max of: 101.0 ) 14.8514851485 % 
+ Avg Intersection between random sets of same size:    21.087  (of a max of: 101.0 ) 20.8782178218 %  zscore of intersect. size: -1.63269397753 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    2.0  (of a max of: 56.0 ) 3.57142857143 % 
+ Avg Intersection between random sets of same size:    6.721  (of a max of: 56.0 ) 12.0017857143 %  zscore of intersect. size: -2.12857310419 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    6.0  (of a max of: 78.0 ) 7.69230769231 % 
+ Avg Intersection between random sets of same size:    9.108  (of a max of: 78.0 ) 11.6769230769 %  zscore of intersect. size: -1.15505230126 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    3.0  (of a max of: 76.0 ) 3.94736842105 % 
+ Avg Intersection between random sets of same size:    9.032  (of a max of: 76.0 ) 11.8842105263 %  zscore of intersect. size: -2.30960692022 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    3.0  (of a max of: 101.0 ) 2.9702970297 % 
+ Avg Intersection between random sets of same size:    14.162  (of a max of: 101.0 ) 14.0217821782 %  zscore of intersect. size: -3.38184108815 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.25   size: 292
+ Intersection between them:    5.0  (of a max of: 32.0 ) 15.625 % 
+ Avg Intersection between random sets of same size:    11.059  (of a max of: 32.0 ) 34.559375 %  zscore of intersect. size: -2.32053313448 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.25   size: 273
+ Intersection between them:    7.0  (of a max of: 32.0 ) 21.875 % 
+ Avg Intersection between random sets of same size:    10.344  (of a max of: 32.0 ) 32.325 %  zscore of intersect. size: -1.29834327735 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+ Intersection between them:    5.0  (of a max of: 32.0 ) 15.625 % 
+ Avg Intersection between random sets of same size:    10.584  (of a max of: 32.0 ) 33.075 %  zscore of intersect. size: -2.22702767318 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    6.0  (of a max of: 32.0 ) 18.75 % 
+ Avg Intersection between random sets of same size:    6.571  (of a max of: 32.0 ) 20.534375 %  zscore of intersect. size: -0.24965797881 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    2.102  (of a max of: 32.0 ) 6.56875 %  zscore of intersect. size: 1.40627474075 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    3.0  (of a max of: 32.0 ) 9.375 % 
+ Avg Intersection between random sets of same size:    2.933  (of a max of: 32.0 ) 9.165625 %  zscore of intersect. size: 0.0414203267209 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    6.0  (of a max of: 32.0 ) 18.75 % 
+ Avg Intersection between random sets of same size:    2.866  (of a max of: 32.0 ) 8.95625 %  zscore of intersect. size: 1.94810860343 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    4.45  (of a max of: 32.0 ) 13.90625 %  zscore of intersect. size: -1.31267791005 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    18.0  (of a max of: 32.0 ) 56.25 % 
+ Avg Intersection between random sets of same size:    18.344  (of a max of: 32.0 ) 57.325 %  zscore of intersect. size: -0.128813982007 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    16.0  (of a max of: 32.0 ) 50.0 % 
+ Avg Intersection between random sets of same size:    16.448  (of a max of: 32.0 ) 51.4 %  zscore of intersect. size: -0.164208399808 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    10.0  (of a max of: 32.0 ) 31.25 % 
+ Avg Intersection between random sets of same size:    14.606  (of a max of: 32.0 ) 45.64375 %  zscore of intersect. size: -1.68946329898 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    20.0  (of a max of: 32.0 ) 62.5 % 
+ Avg Intersection between random sets of same size:    15.824  (of a max of: 32.0 ) 49.45 %  zscore of intersect. size: 1.5030703033 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    18.0  (of a max of: 118.0 ) 15.2542372881 % 
+ Avg Intersection between random sets of same size:    40.674  (of a max of: 118.0 ) 34.4694915254 %  zscore of intersect. size: -4.80367082094 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    18.0  (of a max of: 118.0 ) 15.2542372881 % 
+ Avg Intersection between random sets of same size:    37.893  (of a max of: 118.0 ) 32.1127118644 %  zscore of intersect. size: -4.18401019432 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    21.0  (of a max of: 177.0 ) 11.8644067797 % 
+ Avg Intersection between random sets of same size:    46.644  (of a max of: 177.0 ) 26.3525423729 %  zscore of intersect. size: -5.03722316511 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    1.0  (of a max of: 56.0 ) 1.78571428571 % 
+ Avg Intersection between random sets of same size:    11.663  (of a max of: 56.0 ) 20.8267857143 %  zscore of intersect. size: -3.77716321729 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    5.0  (of a max of: 78.0 ) 6.41025641026 % 
+ Avg Intersection between random sets of same size:    16.449  (of a max of: 78.0 ) 21.0884615385 %  zscore of intersect. size: -3.53434924587 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    8.0  (of a max of: 76.0 ) 10.5263157895 % 
+ Avg Intersection between random sets of same size:    15.857  (of a max of: 76.0 ) 20.8644736842 %  zscore of intersect. size: -2.28875988512 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    18.0  (of a max of: 103.0 ) 17.4757281553 % 
+ Avg Intersection between random sets of same size:    21.418  (of a max of: 103.0 ) 20.7941747573 %  zscore of intersect. size: -0.874249546861 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    12.0  (of a max of: 56.0 ) 21.4285714286 % 
+ Avg Intersection between random sets of same size:    19.514  (of a max of: 56.0 ) 34.8464285714 %  zscore of intersect. size: -2.19301078545 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    13.0  (of a max of: 56.0 ) 23.2142857143 % 
+ Avg Intersection between random sets of same size:    6.846  (of a max of: 56.0 ) 12.225 %  zscore of intersect. size: 2.62210047987 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    18.0  (of a max of: 56.0 ) 32.1428571429 % 
+ Avg Intersection between random sets of same size:    27.873  (of a max of: 56.0 ) 49.7732142857 %  zscore of intersect. size: -2.75691028957 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    19.0  (of a max of: 78.0 ) 24.358974359 % 
+ Avg Intersection between random sets of same size:    27.427  (of a max of: 78.0 ) 35.1628205128 %  zscore of intersect. size: -2.17535837048 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    15.0  (of a max of: 78.0 ) 19.2307692308 % 
+ Avg Intersection between random sets of same size:    9.254  (of a max of: 78.0 ) 11.8641025641 %  zscore of intersect. size: 2.04310904157 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    18.0  (of a max of: 76.0 ) 23.6842105263 % 
+ Avg Intersection between random sets of same size:    26.516  (of a max of: 76.0 ) 34.8894736842 %  zscore of intersect. size: -2.18160096117 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    20.0  (of a max of: 76.0 ) 26.3157894737 % 
+ Avg Intersection between random sets of same size:    9.263  (of a max of: 76.0 ) 12.1881578947 %  zscore of intersect. size: 4.06522865152 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    15.0  (of a max of: 118.0 ) 12.7118644068 % 
+ Avg Intersection between random sets of same size:    41.883  (of a max of: 118.0 ) 35.4940677966 %  zscore of intersect. size: -5.72246762939 
+
+
+good_guys_SD_threshold_coop0.25   size: 346
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    16.0  (of a max of: 103.0 ) 15.5339805825 % 
+ Avg Intersection between random sets of same size:    14.328  (of a max of: 103.0 ) 13.9106796117 %  zscore of intersect. size: 0.517559854539 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    2.0  (of a max of: 101.0 ) 1.9801980198 % 
+ Avg Intersection between random sets of same size:    11.819  (of a max of: 101.0 ) 11.701980198 %  zscore of intersect. size: -3.32928973516 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 80.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    7.82  (of a max of: 80.0 ) 9.775 %  zscore of intersect. size: -3.16996926484 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    2.0  (of a max of: 101.0 ) 1.9801980198 % 
+ Avg Intersection between random sets of same size:    11.188  (of a max of: 101.0 ) 11.0772277228 %  zscore of intersect. size: -3.05983660663 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 80.0 ) 1.25 % 
+ Avg Intersection between random sets of same size:    7.518  (of a max of: 80.0 ) 9.3975 %  zscore of intersect. size: -2.55427683342 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    4.0  (of a max of: 101.0 ) 3.9603960396 % 
+ Avg Intersection between random sets of same size:    11.084  (of a max of: 101.0 ) 10.9742574257 %  zscore of intersect. size: -2.39442631916 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 80.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    7.618  (of a max of: 80.0 ) 9.5225 %  zscore of intersect. size: -3.01361630274 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    1.0  (of a max of: 56.0 ) 1.78571428571 % 
+ Avg Intersection between random sets of same size:    3.386  (of a max of: 56.0 ) 6.04642857143 %  zscore of intersect. size: -1.38613114068 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    1.0  (of a max of: 78.0 ) 1.28205128205 % 
+ Avg Intersection between random sets of same size:    4.733  (of a max of: 78.0 ) 6.06794871795 %  zscore of intersect. size: -1.83296319954 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    5.0  (of a max of: 76.0 ) 6.57894736842 % 
+ Avg Intersection between random sets of same size:    4.587  (of a max of: 76.0 ) 6.03552631579 %  zscore of intersect. size: 0.202236519097 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    2.0  (of a max of: 80.0 ) 2.5 % 
+ Avg Intersection between random sets of same size:    4.934  (of a max of: 80.0 ) 6.1675 %  zscore of intersect. size: -1.3819276448 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    2.0  (of a max of: 56.0 ) 3.57142857143 % 
+ Avg Intersection between random sets of same size:    3.766  (of a max of: 56.0 ) 6.725 %  zscore of intersect. size: -0.943260334181 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    2.0  (of a max of: 78.0 ) 2.5641025641 % 
+ Avg Intersection between random sets of same size:    5.148  (of a max of: 78.0 ) 6.6 %  zscore of intersect. size: -1.49835194726 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    4.0  (of a max of: 76.0 ) 5.26315789474 % 
+ Avg Intersection between random sets of same size:    5.061  (of a max of: 76.0 ) 6.65921052632 %  zscore of intersect. size: -0.516653311363 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    3.0  (of a max of: 101.0 ) 2.9702970297 % 
+ Avg Intersection between random sets of same size:    7.997  (of a max of: 101.0 ) 7.91782178218 %  zscore of intersect. size: -1.93152008678 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    1.0  (of a max of: 56.0 ) 1.78571428571 % 
+ Avg Intersection between random sets of same size:    2.387  (of a max of: 56.0 ) 4.2625 %  zscore of intersect. size: -0.940424141083 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 56.0 ) 1.78571428571 % 
+ Avg Intersection between random sets of same size:    1.512  (of a max of: 56.0 ) 2.7 %  zscore of intersect. size: -0.424628622077 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    3.0  (of a max of: 56.0 ) 5.35714285714 % 
+ Avg Intersection between random sets of same size:    8.163  (of a max of: 56.0 ) 14.5767857143 %  zscore of intersect. size: -2.06910502388 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    3.0  (of a max of: 56.0 ) 5.35714285714 % 
+ Avg Intersection between random sets of same size:    8.927  (of a max of: 56.0 ) 15.9410714286 %  zscore of intersect. size: -2.24474227244 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    2.0  (of a max of: 78.0 ) 2.5641025641 % 
+ Avg Intersection between random sets of same size:    3.137  (of a max of: 78.0 ) 4.02179487179 %  zscore of intersect. size: -0.669724323488 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 78.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    2.17  (of a max of: 78.0 ) 2.78205128205 %  zscore of intersect. size: -1.47339756123 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    6.0  (of a max of: 78.0 ) 7.69230769231 % 
+ Avg Intersection between random sets of same size:    11.377  (of a max of: 78.0 ) 14.5858974359 %  zscore of intersect. size: -1.81725202233 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    8.0  (of a max of: 78.0 ) 10.2564102564 % 
+ Avg Intersection between random sets of same size:    12.347  (of a max of: 78.0 ) 15.8294871795 %  zscore of intersect. size: -1.3870004747 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    0.0  (of a max of: 76.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    3.141  (of a max of: 76.0 ) 4.13289473684 %  zscore of intersect. size: -1.85759836696 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    2.0  (of a max of: 76.0 ) 2.63157894737 % 
+ Avg Intersection between random sets of same size:    2.01  (of a max of: 76.0 ) 2.64473684211 %  zscore of intersect. size: -0.00740862703488 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    7.0  (of a max of: 76.0 ) 9.21052631579 % 
+ Avg Intersection between random sets of same size:    11.122  (of a max of: 76.0 ) 14.6342105263 %  zscore of intersect. size: -1.41858907014 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    5.0  (of a max of: 76.0 ) 6.57894736842 % 
+ Avg Intersection between random sets of same size:    12.113  (of a max of: 76.0 ) 15.9381578947 %  zscore of intersect. size: -2.37413712072 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 80.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    3.253  (of a max of: 80.0 ) 4.06625 %  zscore of intersect. size: -1.85387246289 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    5.0  (of a max of: 101.0 ) 4.9504950495 % 
+ Avg Intersection between random sets of same size:    19.609  (of a max of: 101.0 ) 19.4148514851 %  zscore of intersect. size: -3.98610031203 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    4.0  (of a max of: 101.0 ) 3.9603960396 % 
+ Avg Intersection between random sets of same size:    17.686  (of a max of: 101.0 ) 17.5108910891 %  zscore of intersect. size: -3.79298376532 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    4.0  (of a max of: 101.0 ) 3.9603960396 % 
+ Avg Intersection between random sets of same size:    15.635  (of a max of: 101.0 ) 15.4801980198 %  zscore of intersect. size: -3.4038843423 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    6.0  (of a max of: 101.0 ) 5.94059405941 % 
+ Avg Intersection between random sets of same size:    18.703  (of a max of: 101.0 ) 18.5178217822 %  zscore of intersect. size: -3.50906367199 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    1.0  (of a max of: 80.0 ) 1.25 % 
+ Avg Intersection between random sets of same size:    13.202  (of a max of: 80.0 ) 16.5025 %  zscore of intersect. size: -4.17172852328 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    2.0  (of a max of: 80.0 ) 2.5 % 
+ Avg Intersection between random sets of same size:    11.952  (of a max of: 80.0 ) 14.94 %  zscore of intersect. size: -3.36714338973 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    0.0  (of a max of: 80.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    10.479  (of a max of: 80.0 ) 13.09875 %  zscore of intersect. size: -3.80525097053 
+
+
+bad_guys_lowerHarmony_threshold_coop0.25   size: 101
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    2.0  (of a max of: 80.0 ) 2.5 % 
+ Avg Intersection between random sets of same size:    11.562  (of a max of: 80.0 ) 14.4525 %  zscore of intersect. size: -3.20804647602 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    5.0  (of a max of: 32.0 ) 15.625 % 
+ Avg Intersection between random sets of same size:    5.684  (of a max of: 32.0 ) 17.7625 %  zscore of intersect. size: -0.307741663865 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    6.187  (of a max of: 32.0 ) 19.334375 %  zscore of intersect. size: -0.990614406194 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    3.805  (of a max of: 32.0 ) 11.890625 %  zscore of intersect. size: -1.53736715632 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 32.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    2.629  (of a max of: 32.0 ) 8.215625 %  zscore of intersect. size: -1.71156568995 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    8.0  (of a max of: 32.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    13.418  (of a max of: 32.0 ) 41.93125 %  zscore of intersect. size: -1.91539952321 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    9.0  (of a max of: 32.0 ) 28.125 % 
+ Avg Intersection between random sets of same size:    14.758  (of a max of: 32.0 ) 46.11875 %  zscore of intersect. size: -2.05205742392 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    6.0  (of a max of: 32.0 ) 18.75 % 
+ Avg Intersection between random sets of same size:    5.23  (of a max of: 32.0 ) 16.34375 %  zscore of intersect. size: 0.376659862484 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    7.0  (of a max of: 32.0 ) 21.875 % 
+ Avg Intersection between random sets of same size:    5.809  (of a max of: 32.0 ) 18.153125 %  zscore of intersect. size: 0.56917804835 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    3.491  (of a max of: 32.0 ) 10.909375 %  zscore of intersect. size: -1.4240287662 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    2.329  (of a max of: 32.0 ) 7.278125 %  zscore of intersect. size: -0.227098681193 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    13.0  (of a max of: 32.0 ) 40.625 % 
+ Avg Intersection between random sets of same size:    12.372  (of a max of: 32.0 ) 38.6625 %  zscore of intersect. size: 0.228922571943 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    12.0  (of a max of: 32.0 ) 37.5 % 
+ Avg Intersection between random sets of same size:    13.721  (of a max of: 32.0 ) 42.878125 %  zscore of intersect. size: -0.631749638464 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SH_threshold_coop0.25   size: 177
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    5.356  (of a max of: 32.0 ) 16.7375 %  zscore of intersect. size: -0.652310380571 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    3.0  (of a max of: 32.0 ) 9.375 % 
+ Avg Intersection between random sets of same size:    5.853  (of a max of: 32.0 ) 18.290625 %  zscore of intersect. size: -1.39089816719 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    3.65  (of a max of: 32.0 ) 11.40625 %  zscore of intersect. size: -1.48616304965 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 32.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    2.421  (of a max of: 32.0 ) 7.565625 %  zscore of intersect. size: -1.59992602216 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    7.0  (of a max of: 32.0 ) 21.875 % 
+ Avg Intersection between random sets of same size:    12.752  (of a max of: 32.0 ) 39.85 %  zscore of intersect. size: -2.07930080519 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    8.0  (of a max of: 32.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    14.042  (of a max of: 32.0 ) 43.88125 %  zscore of intersect. size: -2.16529433387 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.25   size: 194
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    3.858  (of a max of: 32.0 ) 12.05625 %  zscore of intersect. size: 0.0764077636063 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    1.153  (of a max of: 32.0 ) 3.603125 %  zscore of intersect. size: -0.150202905197 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    0.0  (of a max of: 32.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    1.492  (of a max of: 32.0 ) 4.6625 %  zscore of intersect. size: -1.33026924353 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    1.516  (of a max of: 32.0 ) 4.7375 %  zscore of intersect. size: -0.427082082973 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    1.533  (of a max of: 32.0 ) 4.790625 %  zscore of intersect. size: -0.42498649962 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    9.0  (of a max of: 32.0 ) 28.125 % 
+ Avg Intersection between random sets of same size:    9.298  (of a max of: 32.0 ) 29.05625 %  zscore of intersect. size: -0.121849077898 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    9.0  (of a max of: 32.0 ) 28.125 % 
+ Avg Intersection between random sets of same size:    8.511  (of a max of: 32.0 ) 26.596875 %  zscore of intersect. size: 0.209121849605 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    6.0  (of a max of: 32.0 ) 18.75 % 
+ Avg Intersection between random sets of same size:    7.396  (of a max of: 32.0 ) 23.1125 %  zscore of intersect. size: -0.613533976336 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    9.0  (of a max of: 32.0 ) 28.125 % 
+ Avg Intersection between random sets of same size:    8.829  (of a max of: 32.0 ) 27.590625 %  zscore of intersect. size: 0.0689215928724 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    1.231  (of a max of: 32.0 ) 3.846875 %  zscore of intersect. size: -0.20951236902 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    1.64  (of a max of: 32.0 ) 5.125 %  zscore of intersect. size: -0.52743272153 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    3.0  (of a max of: 32.0 ) 9.375 % 
+ Avg Intersection between random sets of same size:    1.554  (of a max of: 32.0 ) 4.85625 %  zscore of intersect. size: 1.1873682127 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    2.498  (of a max of: 32.0 ) 7.80625 %  zscore of intersect. size: -0.994258396776 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    9.0  (of a max of: 32.0 ) 28.125 % 
+ Avg Intersection between random sets of same size:    10.143  (of a max of: 32.0 ) 31.696875 %  zscore of intersect. size: -0.426666300921 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    9.0  (of a max of: 32.0 ) 28.125 % 
+ Avg Intersection between random sets of same size:    9.273  (of a max of: 32.0 ) 28.978125 %  zscore of intersect. size: -0.107908754521 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    8.215  (of a max of: 32.0 ) 25.671875 %  zscore of intersect. size: -1.73077994733 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    9.0  (of a max of: 32.0 ) 28.125 % 
+ Avg Intersection between random sets of same size:    9.006  (of a max of: 32.0 ) 28.14375 %  zscore of intersect. size: -0.00242298905368 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    0.704  (of a max of: 32.0 ) 2.2 %  zscore of intersect. size: 0.356760141325 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    0.47  (of a max of: 32.0 ) 1.46875 %  zscore of intersect. size: 0.799823483145 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    2.581  (of a max of: 32.0 ) 8.065625 %  zscore of intersect. size: 0.979800656082 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    2.876  (of a max of: 32.0 ) 8.9875 %  zscore of intersect. size: 0.707965798621 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    0.965  (of a max of: 32.0 ) 3.015625 %  zscore of intersect. size: 0.0369801420899 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 32.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    0.641  (of a max of: 32.0 ) 2.003125 %  zscore of intersect. size: -0.830216857391 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    3.0  (of a max of: 32.0 ) 9.375 % 
+ Avg Intersection between random sets of same size:    3.673  (of a max of: 32.0 ) 11.478125 %  zscore of intersect. size: -0.379429247473 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    4.0  (of a max of: 32.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    3.932  (of a max of: 32.0 ) 12.2875 %  zscore of intersect. size: 0.0371891543004 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    0.965  (of a max of: 32.0 ) 3.015625 %  zscore of intersect. size: 0.0362198729984 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    0.618  (of a max of: 32.0 ) 1.93125 %  zscore of intersect. size: 0.5122668908 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    8.0  (of a max of: 32.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    3.569  (of a max of: 32.0 ) 11.153125 %  zscore of intersect. size: 2.49688729482 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    8.0  (of a max of: 32.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    3.809  (of a max of: 32.0 ) 11.903125 %  zscore of intersect. size: 2.34779084425 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 32.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    1.081  (of a max of: 32.0 ) 3.378125 %  zscore of intersect. size: -1.09621189408 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    6.152  (of a max of: 32.0 ) 19.225 %  zscore of intersect. size: -1.92319197708 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    5.573  (of a max of: 32.0 ) 17.415625 %  zscore of intersect. size: -1.72091958572 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    4.983  (of a max of: 32.0 ) 15.571875 %  zscore of intersect. size: -2.0376904593 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    3.0  (of a max of: 32.0 ) 9.375 % 
+ Avg Intersection between random sets of same size:    6.003  (of a max of: 32.0 ) 18.759375 %  zscore of intersect. size: -1.38828690526 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    4.159  (of a max of: 32.0 ) 12.996875 %  zscore of intersect. size: -1.74593843824 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    3.87  (of a max of: 32.0 ) 12.09375 %  zscore of intersect. size: -1.00515846134 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    1.0  (of a max of: 32.0 ) 3.125 % 
+ Avg Intersection between random sets of same size:    3.341  (of a max of: 32.0 ) 10.440625 %  zscore of intersect. size: -1.43140434879 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    2.0  (of a max of: 32.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    3.773  (of a max of: 32.0 ) 11.790625 %  zscore of intersect. size: -1.00288468389 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    13.0  (of a max of: 32.0 ) 40.625 % 
+ Avg Intersection between random sets of same size:    17.656  (of a max of: 32.0 ) 55.175 %  zscore of intersect. size: -1.67968865539 
+
+
+bad_guys_higherHarmony_threshold_coop0.25   size: 32
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    13.0  (of a max of: 32.0 ) 40.625 % 
+ Avg Intersection between random sets of same size:    19.234  (of a max of: 32.0 ) 60.10625 %  zscore of intersect. size: -2.27888203558 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    17.0  (of a max of: 177.0 ) 9.60451977401 % 
+ Avg Intersection between random sets of same size:    39.173  (of a max of: 177.0 ) 22.1316384181 %  zscore of intersect. size: -4.41897815533 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    7.0  (of a max of: 80.0 ) 8.75 % 
+ Avg Intersection between random sets of same size:    14.214  (of a max of: 80.0 ) 17.7675 %  zscore of intersect. size: -2.24320822143 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    17.0  (of a max of: 103.0 ) 16.5048543689 % 
+ Avg Intersection between random sets of same size:    18.111  (of a max of: 103.0 ) 17.5834951456 %  zscore of intersect. size: -0.29908546186 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    26.0  (of a max of: 194.0 ) 13.4020618557 % 
+ Avg Intersection between random sets of same size:    42.639  (of a max of: 194.0 ) 21.9788659794 %  zscore of intersect. size: -3.30131877352 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    12.0  (of a max of: 118.0 ) 10.1694915254 % 
+ Avg Intersection between random sets of same size:    22.94  (of a max of: 118.0 ) 19.4406779661 %  zscore of intersect. size: -2.77586306868 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    19.0  (of a max of: 103.0 ) 18.4466019417 % 
+ Avg Intersection between random sets of same size:    20.03  (of a max of: 103.0 ) 19.4466019417 %  zscore of intersect. size: -0.270518304874 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    20.0  (of a max of: 118.0 ) 16.9491525424 % 
+ Avg Intersection between random sets of same size:    25.976  (of a max of: 118.0 ) 22.013559322 %  zscore of intersect. size: -1.4337316728 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    15.0  (of a max of: 80.0 ) 18.75 % 
+ Avg Intersection between random sets of same size:    17.536  (of a max of: 80.0 ) 21.92 %  zscore of intersect. size: -0.716009921219 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    17.0  (of a max of: 80.0 ) 21.25 % 
+ Avg Intersection between random sets of same size:    28.718  (of a max of: 80.0 ) 35.8975 %  zscore of intersect. size: -2.8672335217 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 80.0 ) 1.25 % 
+ Avg Intersection between random sets of same size:    9.376  (of a max of: 80.0 ) 11.72 %  zscore of intersect. size: -3.04217498284 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    10.0  (of a max of: 118.0 ) 8.47457627119 % 
+ Avg Intersection between random sets of same size:    34.839  (of a max of: 118.0 ) 29.5245762712 %  zscore of intersect. size: -5.31395093318 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    5.0  (of a max of: 103.0 ) 4.85436893204 % 
+ Avg Intersection between random sets of same size:    12.09  (of a max of: 103.0 ) 11.7378640777 %  zscore of intersect. size: -2.25381666699 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    5.0  (of a max of: 80.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    23.583  (of a max of: 80.0 ) 29.47875 %  zscore of intersect. size: -4.77160400378 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    3.0  (of a max of: 80.0 ) 3.75 % 
+ Avg Intersection between random sets of same size:    8.191  (of a max of: 80.0 ) 10.23875 %  zscore of intersect. size: -2.08668870156 
+
+
+bad_guys_PD_threshold_coop0.25   size: 292
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    20.0  (of a max of: 80.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    33.727  (of a max of: 80.0 ) 42.15875 %  zscore of intersect. size: -3.32826167595 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    18.0  (of a max of: 177.0 ) 10.1694915254 % 
+ Avg Intersection between random sets of same size:    36.691  (of a max of: 177.0 ) 20.7293785311 %  zscore of intersect. size: -3.90366867209 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    7.0  (of a max of: 80.0 ) 8.75 % 
+ Avg Intersection between random sets of same size:    13.234  (of a max of: 80.0 ) 16.5425 %  zscore of intersect. size: -1.99757997032 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    18.0  (of a max of: 103.0 ) 17.4757281553 % 
+ Avg Intersection between random sets of same size:    16.861  (of a max of: 103.0 ) 16.3699029126 %  zscore of intersect. size: 0.340955635245 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    24.0  (of a max of: 194.0 ) 12.3711340206 % 
+ Avg Intersection between random sets of same size:    40.045  (of a max of: 194.0 ) 20.6417525773 %  zscore of intersect. size: -3.30596611288 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    7.0  (of a max of: 118.0 ) 5.93220338983 % 
+ Avg Intersection between random sets of same size:    21.4  (of a max of: 118.0 ) 18.1355932203 %  zscore of intersect. size: -3.73578879439 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    20.0  (of a max of: 103.0 ) 19.4174757282 % 
+ Avg Intersection between random sets of same size:    18.618  (of a max of: 103.0 ) 18.0757281553 %  zscore of intersect. size: 0.369538848428 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    16.0  (of a max of: 118.0 ) 13.5593220339 % 
+ Avg Intersection between random sets of same size:    24.305  (of a max of: 118.0 ) 20.5974576271 %  zscore of intersect. size: -2.06047213888 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    11.0  (of a max of: 80.0 ) 13.75 % 
+ Avg Intersection between random sets of same size:    16.518  (of a max of: 80.0 ) 20.6475 %  zscore of intersect. size: -1.61157229367 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    17.0  (of a max of: 118.0 ) 14.406779661 % 
+ Avg Intersection between random sets of same size:    39.675  (of a max of: 118.0 ) 33.6228813559 %  zscore of intersect. size: -4.88915043246 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    10.0  (of a max of: 80.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    26.604  (of a max of: 80.0 ) 33.255 %  zscore of intersect. size: -4.36295466825 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    0.0  (of a max of: 80.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    8.815  (of a max of: 80.0 ) 11.01875 %  zscore of intersect. size: -3.29921387154 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    9.0  (of a max of: 118.0 ) 7.62711864407 % 
+ Avg Intersection between random sets of same size:    33.028  (of a max of: 118.0 ) 27.9898305085 %  zscore of intersect. size: -5.19638622471 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    3.0  (of a max of: 103.0 ) 2.91262135922 % 
+ Avg Intersection between random sets of same size:    11.328  (of a max of: 103.0 ) 10.9980582524 %  zscore of intersect. size: -2.87097047909 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    4.0  (of a max of: 80.0 ) 5.0 % 
+ Avg Intersection between random sets of same size:    22.281  (of a max of: 80.0 ) 27.85125 %  zscore of intersect. size: -4.74486548971 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    5.0  (of a max of: 80.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    7.693  (of a max of: 80.0 ) 9.61625 %  zscore of intersect. size: -1.07575936104 
+
+
+bad_guys_higherPD_threshold_coop0.25   size: 273
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    16.0  (of a max of: 80.0 ) 20.0 % 
+ Avg Intersection between random sets of same size:    31.319  (of a max of: 80.0 ) 39.14875 %  zscore of intersect. size: -3.70916410953 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    13.0  (of a max of: 177.0 ) 7.34463276836 % 
+ Avg Intersection between random sets of same size:    37.211  (of a max of: 177.0 ) 21.0231638418 %  zscore of intersect. size: -5.02930226764 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    4.0  (of a max of: 80.0 ) 5.0 % 
+ Avg Intersection between random sets of same size:    13.352  (of a max of: 80.0 ) 16.69 %  zscore of intersect. size: -2.88251008135 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    13.0  (of a max of: 103.0 ) 12.6213592233 % 
+ Avg Intersection between random sets of same size:    17.188  (of a max of: 103.0 ) 16.6873786408 %  zscore of intersect. size: -1.15425540103 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    21.0  (of a max of: 194.0 ) 10.824742268 % 
+ Avg Intersection between random sets of same size:    40.47  (of a max of: 194.0 ) 20.8608247423 %  zscore of intersect. size: -4.12678792607 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    13.0  (of a max of: 118.0 ) 11.0169491525 % 
+ Avg Intersection between random sets of same size:    21.741  (of a max of: 118.0 ) 18.4245762712 %  zscore of intersect. size: -2.12564314527 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    16.0  (of a max of: 103.0 ) 15.5339805825 % 
+ Avg Intersection between random sets of same size:    18.976  (of a max of: 103.0 ) 18.4233009709 %  zscore of intersect. size: -0.812877399132 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    20.0  (of a max of: 80.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    16.847  (of a max of: 80.0 ) 21.05875 %  zscore of intersect. size: 0.875914744471 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    4.0  (of a max of: 80.0 ) 5.0 % 
+ Avg Intersection between random sets of same size:    8.774  (of a max of: 80.0 ) 10.9675 %  zscore of intersect. size: -1.82392862722 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    13.0  (of a max of: 118.0 ) 11.0169491525 % 
+ Avg Intersection between random sets of same size:    32.975  (of a max of: 118.0 ) 27.9449152542 %  zscore of intersect. size: -4.40568580774 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    6.0  (of a max of: 103.0 ) 5.82524271845 % 
+ Avg Intersection between random sets of same size:    11.671  (of a max of: 103.0 ) 11.3310679612 %  zscore of intersect. size: -1.82021430752 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    4.0  (of a max of: 80.0 ) 5.0 % 
+ Avg Intersection between random sets of same size:    22.616  (of a max of: 80.0 ) 28.27 %  zscore of intersect. size: -4.91590585531 
+
+
+bad_guys_lowerPD_threshold_coop0.25   size: 278
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    2.0  (of a max of: 80.0 ) 2.5 % 
+ Avg Intersection between random sets of same size:    7.856  (of a max of: 80.0 ) 9.82 %  zscore of intersect. size: -2.26927930135 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+ Intersection between them:    8.0  (of a max of: 177.0 ) 4.5197740113 % 
+ Avg Intersection between random sets of same size:    25.864  (of a max of: 177.0 ) 14.6124293785 %  zscore of intersect. size: -4.19043756788 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    1.0  (of a max of: 56.0 ) 1.78571428571 % 
+ Avg Intersection between random sets of same size:    6.629  (of a max of: 56.0 ) 11.8375 %  zscore of intersect. size: -2.31597872962 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    1.0  (of a max of: 78.0 ) 1.28205128205 % 
+ Avg Intersection between random sets of same size:    9.071  (of a max of: 78.0 ) 11.6294871795 %  zscore of intersect. size: -2.98599263343 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    4.0  (of a max of: 76.0 ) 5.26315789474 % 
+ Avg Intersection between random sets of same size:    8.952  (of a max of: 76.0 ) 11.7789473684 %  zscore of intersect. size: -1.80680645812 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    14.0  (of a max of: 103.0 ) 13.5922330097 % 
+ Avg Intersection between random sets of same size:    12.107  (of a max of: 103.0 ) 11.754368932 %  zscore of intersect. size: 0.599412378813 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    0.0  (of a max of: 56.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    7.428  (of a max of: 56.0 ) 13.2642857143 %  zscore of intersect. size: -3.05422674317 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    2.0  (of a max of: 78.0 ) 2.5641025641 % 
+ Avg Intersection between random sets of same size:    10.565  (of a max of: 78.0 ) 13.5448717949 %  zscore of intersect. size: -3.01394457819 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    4.0  (of a max of: 76.0 ) 5.26315789474 % 
+ Avg Intersection between random sets of same size:    10.071  (of a max of: 76.0 ) 13.2513157895 %  zscore of intersect. size: -2.23659130718 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    5.0  (of a max of: 80.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    10.76  (of a max of: 80.0 ) 13.45 %  zscore of intersect. size: -1.86248857792 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    26.0  (of a max of: 177.0 ) 14.6892655367 % 
+ Avg Intersection between random sets of same size:    57.472  (of a max of: 177.0 ) 32.4700564972 %  zscore of intersect. size: -6.0676740569 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    20.0  (of a max of: 177.0 ) 11.2994350282 % 
+ Avg Intersection between random sets of same size:    51.28  (of a max of: 177.0 ) 28.9717514124 %  zscore of intersect. size: -6.1242044535 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    24.0  (of a max of: 177.0 ) 13.5593220339 % 
+ Avg Intersection between random sets of same size:    61.687  (of a max of: 177.0 ) 34.8514124294 %  zscore of intersect. size: -7.04497215116 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    0.0  (of a max of: 56.0 ) 0.0 % 
+ Avg Intersection between random sets of same size:    12.038  (of a max of: 56.0 ) 21.4964285714 %  zscore of intersect. size: -4.25114830235 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    3.0  (of a max of: 78.0 ) 3.84615384615 % 
+ Avg Intersection between random sets of same size:    17.069  (of a max of: 78.0 ) 21.8833333333 %  zscore of intersect. size: -4.020331495 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    5.0  (of a max of: 76.0 ) 6.57894736842 % 
+ Avg Intersection between random sets of same size:    16.395  (of a max of: 76.0 ) 21.5723684211 %  zscore of intersect. size: -3.3542318572 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    10.0  (of a max of: 80.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    17.347  (of a max of: 80.0 ) 21.68375 %  zscore of intersect. size: -2.10218326838 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 56.0 ) 1.78571428571 % 
+ Avg Intersection between random sets of same size:    2.685  (of a max of: 56.0 ) 4.79464285714 %  zscore of intersect. size: -1.06701683542 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    2.0  (of a max of: 56.0 ) 3.57142857143 % 
+ Avg Intersection between random sets of same size:    10.015  (of a max of: 56.0 ) 17.8839285714 %  zscore of intersect. size: -2.93003078505 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    2.0  (of a max of: 56.0 ) 3.57142857143 % 
+ Avg Intersection between random sets of same size:    3.443  (of a max of: 56.0 ) 6.14821428571 %  zscore of intersect. size: -0.812683598657 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    1.0  (of a max of: 56.0 ) 1.78571428571 % 
+ Avg Intersection between random sets of same size:    15.64  (of a max of: 56.0 ) 27.9285714286 %  zscore of intersect. size: -4.60240841167 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    1.0  (of a max of: 78.0 ) 1.28205128205 % 
+ Avg Intersection between random sets of same size:    3.789  (of a max of: 78.0 ) 4.85769230769 %  zscore of intersect. size: -1.49667912124 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    3.0  (of a max of: 78.0 ) 3.84615384615 % 
+ Avg Intersection between random sets of same size:    13.877  (of a max of: 78.0 ) 17.791025641 %  zscore of intersect. size: -3.37901436378 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    2.0  (of a max of: 78.0 ) 2.5641025641 % 
+ Avg Intersection between random sets of same size:    4.768  (of a max of: 78.0 ) 6.11282051282 %  zscore of intersect. size: -1.30424268528 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    5.0  (of a max of: 78.0 ) 6.41025641026 % 
+ Avg Intersection between random sets of same size:    21.689  (of a max of: 78.0 ) 27.8064102564 %  zscore of intersect. size: -4.64907497089 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    3.0  (of a max of: 76.0 ) 3.94736842105 % 
+ Avg Intersection between random sets of same size:    3.637  (of a max of: 76.0 ) 4.78552631579 %  zscore of intersect. size: -0.346112293068 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    8.0  (of a max of: 76.0 ) 10.5263157895 % 
+ Avg Intersection between random sets of same size:    13.681  (of a max of: 76.0 ) 18.0013157895 %  zscore of intersect. size: -1.76711383584 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    5.0  (of a max of: 76.0 ) 6.57894736842 % 
+ Avg Intersection between random sets of same size:    4.691  (of a max of: 76.0 ) 6.17236842105 %  zscore of intersect. size: 0.15187403773 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    9.0  (of a max of: 76.0 ) 11.8421052632 % 
+ Avg Intersection between random sets of same size:    21.191  (of a max of: 76.0 ) 27.8828947368 %  zscore of intersect. size: -3.32135218295 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    6.0  (of a max of: 80.0 ) 7.5 % 
+ Avg Intersection between random sets of same size:    14.516  (of a max of: 80.0 ) 18.145 %  zscore of intersect. size: -2.67226657998 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    2.0  (of a max of: 80.0 ) 2.5 % 
+ Avg Intersection between random sets of same size:    4.967  (of a max of: 80.0 ) 6.20875 %  zscore of intersect. size: -1.40524435524 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    11.0  (of a max of: 80.0 ) 13.75 % 
+ Avg Intersection between random sets of same size:    23.268  (of a max of: 80.0 ) 29.085 %  zscore of intersect. size: -3.08360209423 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    11.0  (of a max of: 80.0 ) 13.75 % 
+ Avg Intersection between random sets of same size:    20.996  (of a max of: 80.0 ) 26.245 %  zscore of intersect. size: -2.71614550417 
+
+
+bad_guys_SH_threshold_coop0.25   size: 177
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    6.0  (of a max of: 80.0 ) 7.5 % 
+ Avg Intersection between random sets of same size:    18.552  (of a max of: 80.0 ) 23.19 %  zscore of intersect. size: -3.49513211786 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    2.0  (of a max of: 56.0 ) 3.57142857143 % 
+ Avg Intersection between random sets of same size:    8.267  (of a max of: 56.0 ) 14.7625 %  zscore of intersect. size: -2.50126113692 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    4.0  (of a max of: 78.0 ) 5.12820512821 % 
+ Avg Intersection between random sets of same size:    11.445  (of a max of: 78.0 ) 14.6730769231 %  zscore of intersect. size: -2.51357157354 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    6.0  (of a max of: 76.0 ) 7.89473684211 % 
+ Avg Intersection between random sets of same size:    11.143  (of a max of: 76.0 ) 14.6618421053 %  zscore of intersect. size: -1.78790445193 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    8.0  (of a max of: 118.0 ) 6.77966101695 % 
+ Avg Intersection between random sets of same size:    17.247  (of a max of: 118.0 ) 14.6161016949 %  zscore of intersect. size: -2.56308044866 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_PD_threshold_coop0.75   size: 56
+ Intersection between them:    3.0  (of a max of: 56.0 ) 5.35714285714 % 
+ Avg Intersection between random sets of same size:    13.293  (of a max of: 56.0 ) 23.7375 %  zscore of intersect. size: -3.20017372946 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_higherPD_threshold_coop0.75   size: 78
+ Intersection between them:    7.0  (of a max of: 78.0 ) 8.97435897436 % 
+ Avg Intersection between random sets of same size:    18.606  (of a max of: 78.0 ) 23.8538461538 %  zscore of intersect. size: -3.18375963209 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_lowerPD_threshold_coop0.75   size: 76
+ Intersection between them:    7.0  (of a max of: 76.0 ) 9.21052631579 % 
+ Avg Intersection between random sets of same size:    18.278  (of a max of: 76.0 ) 24.05 %  zscore of intersect. size: -3.09448688734 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    13.0  (of a max of: 118.0 ) 11.0169491525 % 
+ Avg Intersection between random sets of same size:    27.853  (of a max of: 118.0 ) 23.6042372881 %  zscore of intersect. size: -3.46268078328 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    2.0  (of a max of: 56.0 ) 3.57142857143 % 
+ Avg Intersection between random sets of same size:    4.361  (of a max of: 56.0 ) 7.7875 %  zscore of intersect. size: -1.20693802622 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    4.0  (of a max of: 56.0 ) 7.14285714286 % 
+ Avg Intersection between random sets of same size:    11.215  (of a max of: 56.0 ) 20.0267857143 %  zscore of intersect. size: -2.43984375556 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    3.0  (of a max of: 56.0 ) 5.35714285714 % 
+ Avg Intersection between random sets of same size:    3.942  (of a max of: 56.0 ) 7.03928571429 %  zscore of intersect. size: -0.497818252426 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    4.0  (of a max of: 56.0 ) 7.14285714286 % 
+ Avg Intersection between random sets of same size:    15.55  (of a max of: 56.0 ) 27.7678571429 %  zscore of intersect. size: -3.54462951504 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    4.0  (of a max of: 78.0 ) 5.12820512821 % 
+ Avg Intersection between random sets of same size:    6.124  (of a max of: 78.0 ) 7.85128205128 %  zscore of intersect. size: -0.910940190357 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    6.0  (of a max of: 78.0 ) 7.69230769231 % 
+ Avg Intersection between random sets of same size:    15.425  (of a max of: 78.0 ) 19.7756410256 %  zscore of intersect. size: -2.78700126051 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    3.0  (of a max of: 78.0 ) 3.84615384615 % 
+ Avg Intersection between random sets of same size:    5.326  (of a max of: 78.0 ) 6.82820512821 %  zscore of intersect. size: -1.12225493875 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    7.0  (of a max of: 78.0 ) 8.97435897436 % 
+ Avg Intersection between random sets of same size:    21.501  (of a max of: 78.0 ) 27.5653846154 %  zscore of intersect. size: -3.90835573297 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    2.0  (of a max of: 76.0 ) 2.63157894737 % 
+ Avg Intersection between random sets of same size:    5.926  (of a max of: 76.0 ) 7.79736842105 %  zscore of intersect. size: -1.74179099777 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    8.0  (of a max of: 76.0 ) 10.5263157895 % 
+ Avg Intersection between random sets of same size:    15.089  (of a max of: 76.0 ) 19.8539473684 %  zscore of intersect. size: -2.10077146405 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    6.0  (of a max of: 76.0 ) 7.89473684211 % 
+ Avg Intersection between random sets of same size:    5.217  (of a max of: 76.0 ) 6.86447368421 %  zscore of intersect. size: 0.371014595459 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    12.0  (of a max of: 76.0 ) 15.7894736842 % 
+ Avg Intersection between random sets of same size:    21.21  (of a max of: 76.0 ) 27.9078947368 %  zscore of intersect. size: -2.45500510619 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    11.0  (of a max of: 118.0 ) 9.32203389831 % 
+ Avg Intersection between random sets of same size:    23.448  (of a max of: 118.0 ) 19.8711864407 %  zscore of intersect. size: -3.10373798297 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    4.0  (of a max of: 103.0 ) 3.88349514563 % 
+ Avg Intersection between random sets of same size:    7.959  (of a max of: 103.0 ) 7.72718446602 %  zscore of intersect. size: -1.53392945094 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    18.0  (of a max of: 118.0 ) 15.2542372881 % 
+ Avg Intersection between random sets of same size:    37.641  (of a max of: 118.0 ) 31.8991525424 %  zscore of intersect. size: -4.52287317215 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    16.0  (of a max of: 118.0 ) 13.5593220339 % 
+ Avg Intersection between random sets of same size:    33.898  (of a max of: 118.0 ) 28.7271186441 %  zscore of intersect. size: -4.13627945516 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    13.0  (of a max of: 118.0 ) 11.0169491525 % 
+ Avg Intersection between random sets of same size:    30.199  (of a max of: 118.0 ) 25.5923728814 %  zscore of intersect. size: -4.0957664026 
+
+
+bad_guys_SD_threshold_coop0.25   size: 194
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    20.0  (of a max of: 103.0 ) 19.4174757282 % 
+ Avg Intersection between random sets of same size:    26.104  (of a max of: 103.0 ) 25.3436893204 %  zscore of intersect. size: -1.50593604428 
+
+
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    20.0  (of a max of: 56.0 ) 35.7142857143 % 
+ Avg Intersection between random sets of same size:    3.486  (of a max of: 56.0 ) 6.225 %  zscore of intersect. size: 9.38870907559 
+
+
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    8.0  (of a max of: 56.0 ) 14.2857142857 % 
+ Avg Intersection between random sets of same size:    17.792  (of a max of: 56.0 ) 31.7714285714 %  zscore of intersect. size: -3.00295545014 
+
+
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    16.0  (of a max of: 56.0 ) 28.5714285714 % 
+ Avg Intersection between random sets of same size:    19.493  (of a max of: 56.0 ) 34.8089285714 %  zscore of intersect. size: -1.04541716064 
+
+
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    15.0  (of a max of: 78.0 ) 19.2307692308 % 
+ Avg Intersection between random sets of same size:    24.735  (of a max of: 78.0 ) 31.7115384615 %  zscore of intersect. size: -2.5475238527 
+
+
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    19.0  (of a max of: 76.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    4.567  (of a max of: 76.0 ) 6.00921052632 %  zscore of intersect. size: 7.33906666767 
+
+
+good_guys_lowerHarmony_threshold_coop0.75   size: 221
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    18.0  (of a max of: 76.0 ) 23.6842105263 % 
+ Avg Intersection between random sets of same size:    24.247  (of a max of: 76.0 ) 31.9039473684 %  zscore of intersect. size: -1.53068655383 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    19.0  (of a max of: 56.0 ) 33.9285714286 % 
+ Avg Intersection between random sets of same size:    8.164  (of a max of: 56.0 ) 14.5785714286 %  zscore of intersect. size: 4.34515313371 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    14.0  (of a max of: 56.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    5.517  (of a max of: 56.0 ) 9.85178571429 %  zscore of intersect. size: 3.88584627435 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    10.0  (of a max of: 56.0 ) 17.8571428571 % 
+ Avg Intersection between random sets of same size:    29.106  (of a max of: 56.0 ) 51.975 %  zscore of intersect. size: -5.38961873227 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    14.0  (of a max of: 56.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    31.627  (of a max of: 56.0 ) 56.4767857143 %  zscore of intersect. size: -5.05657937871 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    16.0  (of a max of: 78.0 ) 20.5128205128 % 
+ Avg Intersection between random sets of same size:    7.737  (of a max of: 78.0 ) 9.91923076923 %  zscore of intersect. size: 3.26068102832 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    19.0  (of a max of: 78.0 ) 24.358974359 % 
+ Avg Intersection between random sets of same size:    40.464  (of a max of: 78.0 ) 51.8769230769 %  zscore of intersect. size: -5.2544271914 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SH_threshold_coop0.75   size: 118
+ Intersection between them:    16.0  (of a max of: 76.0 ) 21.0526315789 % 
+ Avg Intersection between random sets of same size:    10.966  (of a max of: 76.0 ) 14.4289473684 %  zscore of intersect. size: 1.71430442694 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    14.0  (of a max of: 76.0 ) 18.4210526316 % 
+ Avg Intersection between random sets of same size:    7.637  (of a max of: 76.0 ) 10.0486842105 %  zscore of intersect. size: 2.62022057954 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    18.0  (of a max of: 76.0 ) 23.6842105263 % 
+ Avg Intersection between random sets of same size:    39.242  (of a max of: 76.0 ) 51.6342105263 %  zscore of intersect. size: -5.17675278155 
+
+
+good_guys_higherHarmony_threshold_coop0.75   size: 359
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    19.0  (of a max of: 76.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    42.779  (of a max of: 76.0 ) 56.2881578947 %  zscore of intersect. size: -5.9196155805 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    3.0  (of a max of: 56.0 ) 5.35714285714 % 
+ Avg Intersection between random sets of same size:    6.702  (of a max of: 56.0 ) 11.9678571429 %  zscore of intersect. size: -1.57408032429 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    7.0  (of a max of: 56.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    2.332  (of a max of: 56.0 ) 4.16428571429 %  zscore of intersect. size: 3.26045075746 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    10.0  (of a max of: 56.0 ) 17.8571428571 % 
+ Avg Intersection between random sets of same size:    10.367  (of a max of: 56.0 ) 18.5125 %  zscore of intersect. size: -0.129525110168 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    4.0  (of a max of: 56.0 ) 7.14285714286 % 
+ Avg Intersection between random sets of same size:    4.676  (of a max of: 56.0 ) 8.35 %  zscore of intersect. size: -0.320706207688 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    6.0  (of a max of: 56.0 ) 10.7142857143 % 
+ Avg Intersection between random sets of same size:    1.51  (of a max of: 56.0 ) 2.69642857143 %  zscore of intersect. size: 3.79759186651 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    4.0  (of a max of: 56.0 ) 7.14285714286 % 
+ Avg Intersection between random sets of same size:    6.346  (of a max of: 56.0 ) 11.3321428571 %  zscore of intersect. size: -1.0301485612 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    13.0  (of a max of: 56.0 ) 23.2142857143 % 
+ Avg Intersection between random sets of same size:    23.991  (of a max of: 56.0 ) 42.8410714286 %  zscore of intersect. size: -3.15722306221 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    12.0  (of a max of: 56.0 ) 21.4285714286 % 
+ Avg Intersection between random sets of same size:    26.157  (of a max of: 56.0 ) 46.7089285714 %  zscore of intersect. size: -3.9449463675 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    8.0  (of a max of: 56.0 ) 14.2857142857 % 
+ Avg Intersection between random sets of same size:    8.234  (of a max of: 56.0 ) 14.7035714286 %  zscore of intersect. size: -0.0931005039074 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    10.0  (of a max of: 56.0 ) 17.8571428571 % 
+ Avg Intersection between random sets of same size:    9.024  (of a max of: 56.0 ) 16.1142857143 %  zscore of intersect. size: 0.364559373616 
+
+
+good_guys_PD_threshold_coop0.75   size: 56
+bad_guys_SH_threshold_coop0.75   size: 420
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    18.0  (of a max of: 56.0 ) 32.1428571429 % 
+ Avg Intersection between random sets of same size:    37.025  (of a max of: 56.0 ) 66.1160714286 %  zscore of intersect. size: -5.46020080395 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    6.0  (of a max of: 78.0 ) 7.69230769231 % 
+ Avg Intersection between random sets of same size:    9.324  (of a max of: 78.0 ) 11.9538461538 %  zscore of intersect. size: -1.19041003593 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    7.0  (of a max of: 78.0 ) 8.97435897436 % 
+ Avg Intersection between random sets of same size:    3.323  (of a max of: 78.0 ) 4.26025641026 %  zscore of intersect. size: 2.09019299186 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    19.0  (of a max of: 78.0 ) 24.358974359 % 
+ Avg Intersection between random sets of same size:    14.459  (of a max of: 78.0 ) 18.5371794872 %  zscore of intersect. size: 1.43381833362 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    5.0  (of a max of: 78.0 ) 6.41025641026 % 
+ Avg Intersection between random sets of same size:    6.362  (of a max of: 78.0 ) 8.15641025641 %  zscore of intersect. size: -0.570932142402 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    5.0  (of a max of: 78.0 ) 6.41025641026 % 
+ Avg Intersection between random sets of same size:    2.217  (of a max of: 78.0 ) 2.84230769231 %  zscore of intersect. size: 1.9195792417 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    6.0  (of a max of: 78.0 ) 7.69230769231 % 
+ Avg Intersection between random sets of same size:    8.943  (of a max of: 78.0 ) 11.4653846154 %  zscore of intersect. size: -1.13649243858 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    19.0  (of a max of: 78.0 ) 24.358974359 % 
+ Avg Intersection between random sets of same size:    33.282  (of a max of: 78.0 ) 42.6692307692 %  zscore of intersect. size: -3.46690560267 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    20.0  (of a max of: 78.0 ) 25.641025641 % 
+ Avg Intersection between random sets of same size:    36.602  (of a max of: 78.0 ) 46.9256410256 %  zscore of intersect. size: -4.03947632062 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    10.0  (of a max of: 78.0 ) 12.8205128205 % 
+ Avg Intersection between random sets of same size:    11.652  (of a max of: 78.0 ) 14.9384615385 %  zscore of intersect. size: -0.560696398285 
+
+
+good_guys_higherPD_threshold_coop0.75   size: 78
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    13.0  (of a max of: 78.0 ) 16.6666666667 % 
+ Avg Intersection between random sets of same size:    12.778  (of a max of: 78.0 ) 16.3820512821 %  zscore of intersect. size: 0.072490531153 
+
+
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+ Intersection between them:    19.0  (of a max of: 76.0 ) 25.0 % 
+ Avg Intersection between random sets of same size:    2.476  (of a max of: 76.0 ) 3.25789473684 %  zscore of intersect. size: 10.8639452416 
+
+
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    2.0  (of a max of: 76.0 ) 2.63157894737 % 
+ Avg Intersection between random sets of same size:    9.152  (of a max of: 76.0 ) 12.0421052632 %  zscore of intersect. size: -2.72768640662 
+
+
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    7.0  (of a max of: 76.0 ) 9.21052631579 % 
+ Avg Intersection between random sets of same size:    3.199  (of a max of: 76.0 ) 4.20921052632 %  zscore of intersect. size: 2.17594728492 
+
+
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    11.0  (of a max of: 76.0 ) 14.4736842105 % 
+ Avg Intersection between random sets of same size:    14.097  (of a max of: 76.0 ) 18.5486842105 %  zscore of intersect. size: -1.0019773009 
+
+
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    5.0  (of a max of: 76.0 ) 6.57894736842 % 
+ Avg Intersection between random sets of same size:    6.21  (of a max of: 76.0 ) 8.17105263158 %  zscore of intersect. size: -0.522645272922 
+
+
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    5.0  (of a max of: 76.0 ) 6.57894736842 % 
+ Avg Intersection between random sets of same size:    2.098  (of a max of: 76.0 ) 2.76052631579 %  zscore of intersect. size: 1.99197644615 
+
+
+good_guys_lowerPD_threshold_coop0.75   size: 76
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    6.0  (of a max of: 76.0 ) 7.89473684211 % 
+ Avg Intersection between random sets of same size:    8.631  (of a max of: 76.0 ) 11.3565789474 %  zscore of intersect. size: -0.982781615964 
+
+
+good_guys_lowerPD_threshold_coop0.75   size: 76
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    18.0  (of a max of: 76.0 ) 23.6842105263 % 
+ Avg Intersection between random sets of same size:    11.242  (of a max of: 76.0 ) 14.7921052632 %  zscore of intersect. size: 2.28521704372 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+ Intersection between them:    1.0  (of a max of: 80.0 ) 1.25 % 
+ Avg Intersection between random sets of same size:    9.632  (of a max of: 80.0 ) 12.04 %  zscore of intersect. size: -3.15985422907 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+ Intersection between them:    5.0  (of a max of: 80.0 ) 6.25 % 
+ Avg Intersection between random sets of same size:    3.31  (of a max of: 80.0 ) 4.1375 %  zscore of intersect. size: 1.00890577994 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    13.0  (of a max of: 80.0 ) 16.25 % 
+ Avg Intersection between random sets of same size:    15.429  (of a max of: 80.0 ) 19.28625 %  zscore of intersect. size: -0.72538304082 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    11.0  (of a max of: 80.0 ) 13.75 % 
+ Avg Intersection between random sets of same size:    13.939  (of a max of: 80.0 ) 17.42375 %  zscore of intersect. size: -0.916324559691 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    12.0  (of a max of: 80.0 ) 15.0 % 
+ Avg Intersection between random sets of same size:    12.318  (of a max of: 80.0 ) 15.3975 %  zscore of intersect. size: -0.10188919067 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    19.0  (of a max of: 118.0 ) 16.1016949153 % 
+ Avg Intersection between random sets of same size:    52.247  (of a max of: 118.0 ) 44.2771186441 %  zscore of intersect. size: -6.72955653769 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    18.0  (of a max of: 118.0 ) 15.2542372881 % 
+ Avg Intersection between random sets of same size:    46.223  (of a max of: 118.0 ) 39.1720338983 %  zscore of intersect. size: -5.78669863785 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    13.0  (of a max of: 103.0 ) 12.6213592233 % 
+ Avg Intersection between random sets of same size:    20.04  (of a max of: 103.0 ) 19.4563106796 %  zscore of intersect. size: -1.91474089377 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    11.0  (of a max of: 103.0 ) 10.6796116505 % 
+ Avg Intersection between random sets of same size:    18.029  (of a max of: 103.0 ) 17.5038834951 %  zscore of intersect. size: -2.06698115045 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    11.0  (of a max of: 103.0 ) 10.6796116505 % 
+ Avg Intersection between random sets of same size:    16.086  (of a max of: 103.0 ) 15.6174757282 %  zscore of intersect. size: -1.46853194661 
+
+
+good_guys_SH_threshold_coop0.75   size: 118
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_SD_threshold_coop0.75   size: 460
+ Intersection between them:    15.0  (of a max of: 103.0 ) 14.5631067961 % 
+ Avg Intersection between random sets of same size:    19.252  (of a max of: 103.0 ) 18.6912621359 %  zscore of intersect. size: -1.1358879831 
+
+
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    14.0  (of a max of: 80.0 ) 17.5 % 
+ Avg Intersection between random sets of same size:    39.069  (of a max of: 80.0 ) 48.83625 %  zscore of intersect. size: -6.11543825279 
+
+
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    10.0  (of a max of: 80.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    35.174  (of a max of: 80.0 ) 43.9675 %  zscore of intersect. size: -6.05351978374 
+
+
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    10.0  (of a max of: 80.0 ) 12.5 % 
+ Avg Intersection between random sets of same size:    31.26  (of a max of: 80.0 ) 39.075 %  zscore of intersect. size: -5.25260203216 
+
+
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_lowerHarmony_threshold_coop0.75   size: 298
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    17.0  (of a max of: 80.0 ) 21.25 % 
+ Avg Intersection between random sets of same size:    34.217  (of a max of: 80.0 ) 42.77125 %  zscore of intersect. size: -4.1642496723 
+
+
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_PD_threshold_coop0.75   size: 481
+ Intersection between them:    8.0  (of a max of: 80.0 ) 10.0 % 
+ Avg Intersection between random sets of same size:    13.535  (of a max of: 80.0 ) 16.91875 %  zscore of intersect. size: -1.76550084009 
+
+
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_higherPD_threshold_coop0.75   size: 433
+ Intersection between them:    9.0  (of a max of: 80.0 ) 11.25 % 
+ Avg Intersection between random sets of same size:    12.085  (of a max of: 80.0 ) 15.10625 %  zscore of intersect. size: -1.03973030143 
+
+
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_lowerPD_threshold_coop0.75   size: 384
+ Intersection between them:    4.0  (of a max of: 80.0 ) 5.0 % 
+ Avg Intersection between random sets of same size:    10.732  (of a max of: 80.0 ) 13.415 %  zscore of intersect. size: -2.39602146795 
+
+
+good_guys_SD_threshold_coop0.75   size: 80
+bad_guys_higherHarmony_threshold_coop0.75   size: 103
+bad_guys_SH_threshold_coop0.75   size: 420
+ Intersection between them:    9.0  (of a max of: 80.0 ) 11.25 % 
+ Avg Intersection between random sets of same size:    11.874  (of a max of: 80.0 ) 14.8425 %  zscore of intersect. size: -0.959915127944 
+
+
